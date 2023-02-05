@@ -142,7 +142,21 @@ Kaju  -  16500
 Output
 
 ```
+Enter number of countries - 2
+Enter name - India
+Enter capital - New Delhi
+Enter currency - INR
 
+Enter name - USA
+Enter capital - Washington DC
+Enter currency - USD
+
+    NAME    CAPITAL    CURRENCY
+India    New Delhi    INR
+USA    Washington DC    USD
+
+Which currency do you want to search? - USD
+USA
 ```
 
 
