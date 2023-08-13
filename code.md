@@ -1,9 +1,10 @@
 ﻿<h1>Class 12 Record Programs</h1>
+
 1. Write a menu driven program to compute,
-a. Factorial of a given integer
+a. Factorial of a given integer,
 b. Fibonacci series up to the given number n
 c. Check whether the given integer is palindrome or not
-```py
+```python
 while True:
     print("1. Factorial of a number")
     print("2. Fibonacci series")
@@ -34,7 +35,6 @@ while True:
         break
     else:
         print("Invalid choice")
-
 ```
 <br>
 
@@ -43,7 +43,7 @@ a. Print highest mark scored
 b. Print the number of students scored less than 40
 c. Compute the average marks
 d. Compute the percentage of marks scored
-```py
+```python
 n = int(input("Enter the number of students: "))
 marks_list = []
 for i in range(n):
